@@ -1,0 +1,73 @@
+form {
+    width: 500px;
+    background: #fff;
+    padding: 15px 40px 40px;
+    border: 1px solid #ccc;
+    margin: 50px auto 0;
+    border-radius: 5px;
+    background-color: rgb(246, 247, 246);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body{
+    background-size: cover;
+    background-image: url("pngtree-vibrant-aquamarine-watercolor-texture-in-abstract-form-image_13882098.png");
+}
+h1{
+    font-size:70;
+    width: 500px;
+    padding: 8px 10px 4px;
+    color:white;
+    
+}
+label {
+    font-size: 25px;
+    text-align: left;
+    display: block;
+    margin-bottom: 5px;
+    color:purple;
+}
+input, select{
+    font-size: 26px;
+        border: 1px solid #ccc;
+        padding: 10px;
+        display: block;
+        width: 100%;
+        box-sizing: border-box;
+    border-radius: 2px;
+    background: transparent;
+    color:black;
+}
+option{
+    font-size: 26px;
+
+}
+
+.form-inline {
+    border: 1px solid #ccc;
+    padding: 15px 8px 0px;
+    border-radius: 2px;
+    font-size: 25px;
+}
+ .form-inline input {
+    display: inline-block;
+    width: auto;
+    padding-right:120px;
+    
+}
+button[type="submit"] {
+    font-size: 100%;
+    font-weight: 100;
+    background:rgb(69, 163, 222);
+    border-color: rgb(25, 74, 208);
+    /* box-shadow: 0 3px 0 #0165b6; */
+    color:black;
+    margin-top: 10px;
+    cursor: pointer;
+    width: 110px;
+    font-size: 25px;
+}
+button[type="submit"]:hover {
+    background:rgb(14, 103, 205);
+}
+
